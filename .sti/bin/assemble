@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir /var/www
+cp /tmp/src/index.html /var/www
